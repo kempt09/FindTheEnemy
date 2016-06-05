@@ -14,7 +14,7 @@ const readline = require('readline');
   const options = new Options();
 
   var enemy = new Character("enemy")
-  var hero = new Character("Chris");
+  var hero = new Character("Hero");
 
   (function(){
 
